@@ -3,3 +3,46 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+h1{
+    color: aqua;
+    text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F;
+}
+
+.azulito{
+    background-color: blue;
+}
+
+.rojito{
+    background-color: red;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    border-radius: 6px;
+}
+
+.azulito, .rojito{
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+    border-radius: 6px;
+}
+
+
+.container{
+    display: flex;
+    height: 1000px;
+    background-color: papayawhip;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+.item{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    box-shadow: 2px 5px #888888;
+    color:white;
+    text-align: center;
+background-color: cadetblue;
+}
