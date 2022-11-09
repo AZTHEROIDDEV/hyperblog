@@ -4,4 +4,8 @@ We have a duty to work harder and harder.
 
 this file tells a history
 
+<<<<<<< HEAD
 if we add something more...
+=======
+this time i thing so i can change the form of programing 
+>>>>>>> prubeas
